@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, My name is Sonok Mahapatra</h1>
 <h3 align="center">I'm a student at the University of Maryland College Park pursuing a double degree in CS (with a concentration in ML) and Statistics with two minors in Computational Finance and Robotics.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonok" alt="sonok" /></a> </p>
 
 - 🔭 I’m currently working on [Finance web scraping + signal processing project](https://github.com/Sonok/FinanceFolder)
 
