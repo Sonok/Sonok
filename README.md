@@ -1,9 +1,10 @@
 # Profile
-<h1 align="center">Hi 👋, My name is Sonok Mahapatra</h1>
-<h3 align="center">I'm a student at the University of Maryland College Park pursuing a double degree in CS (with a concentration in ML) and Statistics with two minors in Computational Finance and Robotics.</h3>
+# Hey, I'm Sonok 
+
+I'm a student at the University of Maryland, College Park, pursuing a double degree in CS and Statisitcs with two minors in Computational Finance and Robotics.
 
 
-- 🔭 I’m currently working on [Finance web scraping + signal processing project](https://github.com/Sonok/FinanceFolder)
+- 🔭 I’m currently working on for my club Smith Invest Fund (SIF @UMD) [Finance web scraping + signal processing project](https://github.com/Sonok/FinanceFolder)
 
 - 🌱 I’m currently learning **C, Next.JS, and x86-64**
 
