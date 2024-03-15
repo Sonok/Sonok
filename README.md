@@ -12,7 +12,7 @@ I'm a student at the University of Maryland, College Park, pursuing a double deg
 
 - I wrote my last research paper in [https://link.springer.com/chapter/10.1007/978-981-19-1610-6_76](https://link.springer.com/chapter/10.1007/978-981-19-1610-6_76)
 
-- 📫 How to reach me **sonokmahapatra@gmail.com@gmail.com**
+- 📫 How to reach me **sonokmahapatra@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
