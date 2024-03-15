@@ -6,13 +6,13 @@ I'm a student at the University of Maryland, College Park, pursuing a double deg
 
 - 🔭 I’m currently working on for my club Smith Invest Fund (SIF @UMD) [Finance web scraping + signal processing project](https://github.com/Sonok/FinanceFolder)
 
-- 🌱 I’m currently learning **C, Next.JS, and x86-64**
+- 🌱 I’m currently learning **C, Next.JS, PostgreSQL and x86-64**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sonok](https://github.com/Sonok)
 
 - I wrote my last research paper in [https://link.springer.com/chapter/10.1007/978-981-19-1610-6_76](https://link.springer.com/chapter/10.1007/978-981-19-1610-6_76)
 
-- 📫 How to reach me **saovik404@gmail.com**
+- 📫 How to reach me **sonokmahapatra@gmail.com@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
