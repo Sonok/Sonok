@@ -1,12 +1,12 @@
 # Profile
 # Hey, I'm Sonok 
 
-I'm a student at the University of Maryland, College Park, pursuing a double degree in CS and Statisitcs with two minors in Computational Finance and Robotics. I'm graduating 2025 and currently seeking an internship.
+I'm a student at the University of Maryland, College Park, pursuing a double degree in CS and Statisitcs with two minors in Computational Finance and Robotics. I'm graduating 2027 and currently seeking an internship.
 
 
 - 🔭 I’m currently working on for my club Smith Invest Fund (SIF @UMD) [Finance web scraping + signal processing project](https://github.com/Sonok/FinanceFolder)
 
-- 🌱 I’m currently learning **C, Next.JS, PostgreSQL and x86-64**
+- 🌱 I’m currently learning **C++, High Performance Computing, Competive Programming, and Database Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sonok](https://github.com/Sonok)
 
