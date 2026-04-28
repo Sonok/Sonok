@@ -44,7 +44,7 @@ Quantitative Developer Intern
 - Validated over 18 months of live deployment with stable performance  
 
 **Signal Processing & Cryptography Research**  
-- Published 4 papers on wavelet-based signal processing and post-quantum systems :contentReference[oaicite:2]{index=2}  
+- Published 4 papers on wavelet-based signal processing and post-quantum systems.
 
 ---
 
