@@ -64,35 +64,19 @@ Docker, Kubernetes, GCP, PostgreSQL, Redis, Django, FastAPI, CI/CD
 <p align="left">
 
 <!-- Row 1 -->
-<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="40"/></a>
-<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" height="40"/></a>
-<a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" height="40"/></a>
-<a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" height="40"/></a>
-<a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" height="40"/></a>
-<a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis" height="40"/></a>
+<img src="https://skillicons.dev/icons?i=python,cpp,rust,java,js,ts,go,c,cs,swift" />
 
 <br/>
 
 <!-- Row 2 -->
-<a href="https://cloud.google.com"><img src="https://skillicons.dev/icons?i=gcp" height="40"/></a>
-<a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes" height="40"/></a>
-<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="40"/></a>
-<a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi" height="40"/></a>
-<a href="https://www.djangoproject.com"><img src="https://skillicons.dev/icons?i=django" height="40"/></a>
-<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" height="40"/></a>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,sqlite,firebase,aws,gcp,azure,docker" />
 
 <br/>
 
 <!-- Row 3 -->
-<a href="https://numpy.org"><img src="https://skillicons.dev/icons?i=python" height="40"/></a>
-<a href="https://pandas.pydata.org"><img src="https://skillicons.dev/icons?i=python" height="40"/></a>
-<a href="https://scikit-learn.org"><img src="https://skillicons.dev/icons?i=sklearn" height="40"/></a>
-<a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch" height="40"/></a>
-<a href="https://www.mathworks.com"><img src="https://skillicons.dev/icons?i=matlab" height="40"/></a>
+<img src="https://skillicons.dev/icons?i=kubernetes,linux,git,github,fastapi,django,nodejs,react,pytorch,tensorflow" />
 
 </p>
-
----
 
 ## Links
 
