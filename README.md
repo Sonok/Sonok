@@ -1,71 +1,80 @@
-# Profile
+# Sonok Mahapatra
 
-# Hey, I'm Sonok
-
-I'm a student at the University of Maryland, College Park, pursuing a double degree in Computer Science and Statistics with minors in Computational Finance and Robotics. I'm graduating in 2027 and currently seeking an internship.
-
-- I’m currently working on a finance web scraping and signal processing project for Smith Investment Fund (SIF @ UMD):  
-  https://github.com/Sonok/FinanceFolder
-
-- I’m currently learning C++, High Performance Computing, Competitive Programming, and Database Design
-
-- All of my projects are available at:  
-  https://github.com/Sonok
-
-- My most recent research paper:  
-  https://link.springer.com/chapter/10.1007/978-981-19-1610-6_76
-
-- Contact:  
-  sonokmahapatra@gmail.com
+Computer Science + Applied Mathematics @ University of Maryland  
+Interested in low-latency systems, distributed infrastructure, and quantitative finance  
 
 ---
 
-<h3 align="left">Connect</h3>
+## About
 
-<p align="left">
-<a href="https://linkedin.com/in/sonok-mahapatra" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-</p>
+I'm a student at the University of Maryland pursuing degrees in Computer Science and Applied Mathematics with a focus on high-performance systems and quantitative modeling.
+
+I’m particularly interested in:
+- Low-latency distributed systems
+- Market microstructure and quantitative trading
+- High-performance computing and parallel systems
 
 ---
 
-<h3 align="left">Languages and Tools</h3>
+## Experience
 
-<table>
-<tr>
-<td><a href="https://babeljs.io/"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="40"/></a></td>
-<td><a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/></a></td>
-<td><a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></a></td>
-<td><a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a></td>
-<td><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a></td>
-<td><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a></td>
-</tr>
+**Amazon Web Services (Incoming)**  
+Software Development Engineer Intern, Networking Infrastructure  
+- Working on low-latency distributed systems and high-throughput data plane software at scale :contentReference[oaicite:0]{index=0}  
 
-<tr>
-<td><a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a></td>
-<td><a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></a></td>
-<td><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a></td>
-<td><a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a></td>
-<td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a></td>
-<td><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a></td>
-</tr>
+**Probanker**  
+Software Engineering Intern  
+- Optimized interbank simulation pipelines, reducing runtime by 40% via vectorization and C/C++ extensions :contentReference[oaicite:1]{index=1}  
+- Parallelized simulation engine using OpenMP and cache-aware memory layouts  
+- Improved backend throughput by removing ORM bottlenecks in a multi-tenant Django system  
 
-<tr>
-<td><a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/></a></td>
-<td><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a></td>
-<td><a href="https://reactnative.dev/"><img src="https://reactnative.dev/img/header_logo.svg" width="40"/></a></td>
-<td><a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></a></td>
-<td><a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/></a></td>
-<td><a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a></td>
-</tr>
-</table>
+**State Street**  
+Quantitative Developer Intern  
+- Built GCP pipelines processing 10K+ daily financial data inputs  
+- Designed NLP-based feature pipelines using BERT and VaderSentiment  
+- Reduced feature computation error by 20% through vectorized batch processing  
+
 ---
+
+## Selected Work
+
+**Systematic Equity Execution System (SIF @ UMD)**  
+- Built a microstructure-driven trading system using liquidity signals (Amihud, bid-ask spread, turnover)  
+- Developed backtesting + execution framework with automated risk management  
+- Validated over 18 months of live deployment with stable performance  
+
+**Signal Processing & Cryptography Research**  
+- Published 4 papers on wavelet-based signal processing and post-quantum systems :contentReference[oaicite:2]{index=2}  
+
+---
+
+## Technical Skills
+
+**Languages**  
+C/C++, Rust, Python, SQL, MATLAB, Java, OCaml, R  
+
+**Systems & Performance**  
+OpenMP, SIMD vectorization, cache-aware memory design, low-latency pipeline architecture  
+
+**Infrastructure**  
+Docker, Kubernetes, GCP, PostgreSQL, Redis, Django, FastAPI, CI/CD  
+
+---
+
+## Links
+
+GitHub: https://github.com/Sonok  
+LinkedIn: https://linkedin.com/in/sonok-mahapatra  
+Email: sonokmahapatra@gmail.com  
+
+---
+
+## Stats
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonok&show_icons=true&locale=en&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonok&layout=compact" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonok&show_icons=true&locale=en" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonok&show_icons=true" />
 </p>
