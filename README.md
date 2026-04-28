@@ -20,11 +20,11 @@ I’m particularly interested in:
 
 **Amazon Web Services (Incoming)**  
 Software Development Engineer Intern, Networking Infrastructure  
-- Working on low-latency distributed systems and high-throughput data plane software at scale :contentReference[oaicite:0]{index=0}  
+- Working on low-latency distributed systems and high-throughput data plane software at scale.
 
 **Probanker**  
 Software Engineering Intern  
-- Optimized interbank simulation pipelines, reducing runtime by 40% via vectorization and C/C++ extensions :contentReference[oaicite:1]{index=1}  
+- Optimized interbank simulation pipelines, reducing runtime by 40% via vectorization and C/C++ extensions.
 - Parallelized simulation engine using OpenMP and cache-aware memory layouts  
 - Improved backend throughput by removing ORM bottlenecks in a multi-tenant Django system  
 
