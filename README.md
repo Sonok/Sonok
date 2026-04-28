@@ -1,51 +1,32 @@
 # Sonok Mahapatra
 
-Computer Science + Applied Mathematics @ University of Maryland  
+CS + Applied Math @ University of Maryland  
 Interested in low-latency systems, distributed infrastructure, and quantitative finance  
-
----
-
-## About
-
-I'm a student at the University of Maryland pursuing degrees in Computer Science and Applied Mathematics with a focus on high-performance systems and quantitative modeling.
-
-I’m particularly interested in:
-- Low-latency distributed systems
-- Market microstructure and quantitative trading
-- High-performance computing and parallel systems
 
 ---
 
 ## Experience
 
 **Amazon Web Services (Incoming)**  
-Software Development Engineer Intern, Networking Infrastructure  
-- Working on low-latency distributed systems and high-throughput data plane software at scale.
+SDE Intern, Networking Infrastructure  
 
 **Probanker**  
-Software Engineering Intern  
-- Optimized interbank simulation pipelines, reducing runtime by 40% via vectorization and C/C++ extensions.
-- Parallelized simulation engine using OpenMP and cache-aware memory layouts  
-- Improved backend throughput by removing ORM bottlenecks in a multi-tenant Django system  
+- Reduced simulation runtime 40% via vectorization + C/C++  
+- Parallelized engine with OpenMP and cache-aware design  
 
 **State Street**  
-Quantitative Developer Intern  
-- Built GCP pipelines processing 10K+ daily financial data inputs  
-- Designed NLP-based feature pipelines using BERT and VaderSentiment  
-- Reduced feature computation error by 20% through vectorized batch processing  
+- Built GCP pipelines processing 10K+ daily data inputs  
+- Designed NLP feature pipelines (BERT, VaderSentiment)  
 
 ---
 
-## Selected Work
+## Projects
 
 **Systematic Equity Execution System (SIF @ UMD)**  
-- Built a microstructure-driven trading system using liquidity signals (Amihud, bid-ask spread, turnover)  
-- Developed backtesting + execution framework with automated risk management  
-- Validated over 18 months of live deployment with stable performance  
+- Built trading system using liquidity signals + backtesting engine  
+- Automated risk management and execution  
 
-**Signal Processing & Cryptography Research**  
-- Published 4 papers on wavelet-based signal processing and post-quantum systems.
-
+---
 ---
 
 ## Technical Skills
