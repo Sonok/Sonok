@@ -18,7 +18,6 @@ SDE Intern, Networking Infrastructure
 - Built GCP pipelines processing 10K+ daily data inputs  
 - Designed NLP feature pipelines (BERT, VaderSentiment)  
 
----
 
 ## Projects
 
@@ -26,8 +25,6 @@ SDE Intern, Networking Infrastructure
 - Built trading system using liquidity signals + backtesting engine  
 - Automated risk management and execution  
 
----
----
 
 ## Technical Skills
 
