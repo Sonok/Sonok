@@ -7,7 +7,7 @@ Interested in low-latency systems, distributed infrastructure, and quantitative 
 
 ## Experience
 
-**Amazon Web Services (Incoming)**  
+**Amazon Web Services**  
 SDE Intern, Networking Infrastructure  
 
 **Probanker**  
