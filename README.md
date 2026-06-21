@@ -7,8 +7,12 @@ Interested in low-latency systems, distributed infrastructure, and quantitative 
 
 ## Experience
 
-**Amazon Web Services**  
-SDE Intern, Networking Infrastructure  
+**Amazon Web Services**
+
+- Developed a sandbox environment for Rubicon, AWS Security’s document processing platform, enabling isolated validation of infrastructure changes across security data pipelines handling 3K+ events/sec or 200M+ events/day
+- Built production-fidelity testing infrastructure for Rubicon, replaying historical security workloads to validate distributed system behavior and accelerate outage recovery.
+- Reducing pipeline validation and recovery time from 6+ hours to under 1 hour by eliminating shared-environment bottlenecks through
+automated pre-production testing.
 
 **Probanker**  
 - Reduced simulation runtime 40% via vectorization + C/C++  
