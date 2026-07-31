@@ -7,6 +7,12 @@ Interested in low-latency systems, distributed infrastructure, and quantitative 
 
 ## Experience
 
+**Shopify**
+
+- Incoming Software Engineering Intern (NYC), joining the Payments and Machine Learning Infrastructure organization.
+- Shopify powers millions of merchants across 175+ countries and processes over **$378B** in annual Gross Merchandise Volume (GMV).
+- Focused on building scalable, reliable backend infrastructure for payments and machine learning systems at global scale.
+
 **Amazon Web Services**
 
 - Developed a sandbox environment for Rubicon, AWS Security’s document processing platform, enabling isolated validation of infrastructure changes across security data pipelines handling 3K+ events/sec or 200M+ events/day
