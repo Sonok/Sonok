@@ -69,7 +69,7 @@ Docker, Kubernetes, GCP, PostgreSQL, Redis, Django, FastAPI, CI/CD
 ## Links
 
 GitHub: https://github.com/Sonok  
-LinkedIn: https://linkedin.com/in/sonok-mahapatra  
+LinkedIn: https://linkedin.com/in/sonok  
 Email: sonokmahapatra@gmail.com  
 
 ---
